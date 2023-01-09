@@ -1,0 +1,62 @@
+Number - Subtitle_ID - Year - Language - Title
+
+01 - 9389687 - 2003 - Spanish - 2 Fast 2 Furious
+02 - 9389686 - 2003 - English - 2 Fast 2 Furious
+03 - 9389685 - 2022 - Russian - Play it Cool, Guys
+04 - 9389684 - 2022 - Portuguese (BR) - Play it Cool, Guys
+05 - 9389683 - 2022 - Italian - Play it Cool, Guys
+06 - 9389682 - 2022 - French - Play it Cool, Guys
+07 - 9389681 - 2022 - Spanish - Play it Cool, Guys
+08 - 9389680 - 2022 - English - Play it Cool, Guys
+09 - 9389679 - 2022 - German - Play it Cool, Guys
+10 - 9389678 - 2022 - Arabic - Play it Cool, Guys
+11 - 9389677 - 2019 - Turkish - Nimic
+12 - 9389676 - 2023 - Serbian - "1923" Episode #1.4
+13 - 9389675 - 1994 - Italian - Little Odessa
+14 - 9389674 - 2023 - English - "Silent Witness" Familiar Faces - Part 2
+15 - 9389673 - 2023 - Chinese (traditional) - Reborn to Master the Blade: From Hero-King to Ex...
+16 - 9389672 - 2023 - Chinese (simplified) - Reborn to Master the Blade: From Hero-King to Ex...
+17 - 9389671 - 2023 - Chinese (traditional) - "Ayakashi Triangle" Episode #1.1
+18 - 9389670 - 2023 - Chinese (simplified) - "Ayakashi Triangle" Episode #1.1
+19 - 9389669 - 2023 - Spanish - "Ayakashi Triangle" Episode #1.1
+20 - 9389668 - 2023 - Russian - "Ayakashi Triangle" Episode #1.1
+21 - 9389667 - 2023 - Portuguese (BR) - "Ayakashi Triangle" Episode #1.1
+22 - 9389666 - 2023 - Italian - "Ayakashi Triangle" Episode #1.1
+23 - 9389665 - 2023 - French - "Ayakashi Triangle" Episode #1.1
+24 - 9389664 - 2023 - Spanish - "Ayakashi Triangle" Episode #1.1
+25 - 9389663 - 2023 - English - "Ayakashi Triangle" Episode #1.1
+26 - 9389662 - 2023 - German - "Ayakashi Triangle" Episode #1.1
+27 - 9389661 - 2023 - Portuguese (BR) - "Chicago Fire" Something for the Pain
+28 - 9389660 - 2022 - Catalan - "Andor" Announcement
+29 - 9389659 - 2023 - Polish - "Koala Man" Hot Christmas
+30 - 9389658 - 2023 - Polish - "Koala Man" Emu War II
+31 - 9389657 - 2023 - Polish - "Koala Man" The Handies
+32 - 9389656 - 2023 - Polish - "Koala Man" Ode to a Koala Bear
+33 - 9389655 - 2023 - Polish - "Koala Man" The Great One
+34 - 9389654 - 2023 - Portuguese (BR) - "Ghosts" The Perfect Assistant
+35 - 9389653 - 2023 - Polish - "Koala Man" The Red Hot Rule
+36 - 9389652 - 2023 - Polish - "Koala Man" Deep Pockets
+37 - 9389651 - 2023 - Polish - "Koala Man" Bin Day
+38 - 9389650 - 2016 - Slovak - Ucitelka
+39 - 9389649 - 2022 - Polish - "American Horror Story" Fire Island
+40 - 9389648 - 2022 - Polish - "The Resident" The Chimera
+
+Languages percentage
+
+Arabic: 2.5%
+Catalan: 2.5%
+Chinese (simplified): 5.0%
+Chinese (traditional): 5.0%
+English: 10.0%
+French: 5.0%
+German: 5.0%
+Italian: 7.5%
+Polish: 25.0%
+Portuguese (BR): 10.0%
+Russian: 5.0%
+Serbian: 2.5%
+Slovak: 2.5%
+Spanish: 10.0%
+Turkish: 2.5%
+
+Total languages: 15
